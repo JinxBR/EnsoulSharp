@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsoulSharp.Katarina", "EnsoulSharp.Katarina\EnsoulSharp.Katarina.csproj", "{B492E5E6-3668-4BC0-BDA8-F8C8240614BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B492E5E6-3668-4BC0-BDA8-F8C8240614BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B492E5E6-3668-4BC0-BDA8-F8C8240614BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B492E5E6-3668-4BC0-BDA8-F8C8240614BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B492E5E6-3668-4BC0-BDA8-F8C8240614BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8168E280-600B-49FB-8383-DDBD24DD3B29}
+	EndGlobalSection
+EndGlobal
